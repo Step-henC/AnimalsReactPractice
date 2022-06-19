@@ -10,7 +10,7 @@ namespace SpacedMan
             Game newGame = new Game();
 
             newGame.Greet();
-            Console.WriteLine(newGame.Codeword);
+            
 
             while (!newGame.DidWin() || !newGame.DidLose())
             {
