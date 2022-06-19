@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpacedMan", "SpacedMan.csproj", "{A3889F68-F730-4B27-BCD4-749D5628465B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3889F68-F730-4B27-BCD4-749D5628465B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3889F68-F730-4B27-BCD4-749D5628465B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3889F68-F730-4B27-BCD4-749D5628465B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3889F68-F730-4B27-BCD4-749D5628465B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A795AB40-E857-42A2-A94A-15DE16B598E5}
+	EndGlobalSection
+EndGlobal
