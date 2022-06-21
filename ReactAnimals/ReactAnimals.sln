@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactAnimals", "ReactAnimals.csproj", "{545E651E-EA90-4CBC-899D-AF44822C9B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545E651E-EA90-4CBC-899D-AF44822C9B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545E651E-EA90-4CBC-899D-AF44822C9B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545E651E-EA90-4CBC-899D-AF44822C9B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545E651E-EA90-4CBC-899D-AF44822C9B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C945B0DA-5932-487E-A209-955BAB1BEFB6}
+	EndGlobalSection
+EndGlobal
